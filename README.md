@@ -1,1 +1,1 @@
-# Hibernet-Dependencies
+# Hibernet & Spring Dependencies
